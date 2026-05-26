@@ -1,4 +1,4 @@
-#Transient Helices Govern Order–Disorder Transitions in Proteins
+Transient Helices Govern Order–Disorder Transitions in Proteins
 
 This repository contains the simulation setup, analysis scripts, and plotting workflows used in the study 
 
@@ -9,9 +9,9 @@ Perform trajectory-based analyses
 Reproduce quantitative results presented in the main text and Supporting Information (SI)
 Generate publication-quality figures
 
-#Repository Structure
+Repository Structure
 
-#1. Simulation Setup
+1. Simulation Setup
 
 This directory contains all files required to prepare and run molecular simulations.
 
@@ -29,7 +29,7 @@ H4–6 fragment
 
 The workflows are designed to reproduce the simulation conditions used in this study.
 
-#2. Analysis Code for Main Text and Supporting Information Figures
+2. Analysis Code for Main Text and Supporting Information Figures
 
 This directory contains scripts used for trajectory analysis and figure generation.
 
@@ -44,7 +44,7 @@ H0–3 fragment
 H4–6 fragment
 Data Availability
 
-Processed datasets generated from the simulations are stored in the MPI repository.
+Processed datasets generated from the simulations are stored in the MPI repository link given in main text.
 
 The scripts in this repository can be used to reproduce the analyses and regenerate the figures from the processed data.
 
