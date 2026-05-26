@@ -7,7 +7,6 @@ The repository includes all code required to:
 Generate simulation input systems and trajectories
 Perform trajectory-based analyses
 Reproduce quantitative results presented in the main text and Supporting Information (SI)
-Generate publication-quality figures
 
 Repository Structure
 
@@ -23,7 +22,7 @@ System preparation utilities
 
 These scripts were used to generate the initial configurations and production trajectories for:
 
-Full-length Im30
+Full-length IM30
 H0–3 fragment
 H4–6 fragment
 
@@ -39,7 +38,7 @@ Plotting scripts for reproducing figures
 
 The analysis was performed for:
 
-Full-length Im30
+Full-length IM30
 H0–3 fragment
 H4–6 fragment
 Data Availability
